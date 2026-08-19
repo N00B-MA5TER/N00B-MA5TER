@@ -105,6 +105,19 @@ I'm an independent software engineer who cares more about shipping working softw
 
 <br/>
 
+<!-- ANIME-FLAIR:START -->
+## 🎌 Anime Mode: ON
+
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgxY2xsNm8yMTBxMHFiOThobTYxNGw2Mm5kaDg3ZnE5NjlnNXl0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vcY5zhQ9QDhCw/giphy.gif" width="30%"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o0anZ6dWt2a3g5dWJtazY1bmZrc3B6cG83eW82bWE1cjR2dmtlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skVe8kyj61sqS0RlSZ/giphy.gif" width="30%"/>
+</div>
+
+> Same energy as shipping to production at 2 AM: *"It's not about who you were born as — it's about who you choose to be."*
+<!-- ANIME-FLAIR:END -->
+
+<br/>
+
 <div align="center">
 
 **Thanks for stopping by — let's build something worth shipping.**
