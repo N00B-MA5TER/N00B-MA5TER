@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rajdeep+Nandy;Full-Stack+Developer;ML+%2F+Computer+Vision+Engineer;B.Tech+CSE+%40+MAKAUT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rajdeep+Nandy;Full-Stack+Developer;ML+%2F+Computer+Vision+Engineer;Independent+Software+Engineer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=N00B-MA5TER&label=Profile%20Views&color=a78bfa&style=flat" alt="Profile views" />
 &nbsp;
@@ -14,10 +14,10 @@
 
 <br/>
 
-I'm a Computer Science undergrad at **MAKAUT** (GPA 9.1) who cares more about shipping working software than shipping perfect-looking demos. I've deployed a production-grade inventory system for a real business, built a computer vision pipeline for **ISRO's IRoC-U 2026 robotics challenge**, and I like problems that force me to go from *"it works on my machine"* to *"it works in production."*
+I'm an independent software engineer who cares more about shipping working software than shipping perfect-looking demos. I designed and deployed a production-grade **inventory & order management system** for a real hardware business, built the onboard computer vision pipeline for **ISRO's IRoC-U 2026 robotics challenge**, and I like problems that force me to go from *"it works on my machine"* to *"it works in production."*
 
-- 🔭 Currently maintaining a live **Django + PostgreSQL** inventory platform in production
-- 🛰️ Trained **YOLOv8** models for autonomous target detection — Top 74 nationwide, ISRO IRoC-U 2026
+- 🏗️ Independent Software Engineer — built and run a live **Django + PostgreSQL** inventory platform in production for a real business
+- 🛰️ Trained **YOLOv8** models for autonomous target detection — **Top 74 nationwide**, ISRO IRoC-U 2026
 - 🌱 Exploring real-time systems (Socket.IO, row-level locking) and applied ML
 - 📫 Reach me at **rajdeepnandyofficial@gmail.com**
 
